@@ -1,0 +1,30 @@
+.titulo
+{
+    text-align: center;
+    color: grey;
+    font-size: 70px;
+    width: 100%
+}
+.domingo
+{
+    background-color: #fff58c;
+    color: red;
+}
+.sabado
+{
+    background-color: #647bf5;
+    color: #020a36
+}
+div
+{
+    border-style: hidden;
+    border-radius: 10%;
+    margin: auto;
+    text-align: center;
+    font-size:  40px;
+    width: 200px;
+    height: 100px;
+    text-align: center;
+    top: 10px;
+    bottom:10px;
+}
